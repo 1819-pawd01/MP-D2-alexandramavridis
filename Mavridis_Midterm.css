@@ -1,0 +1,23 @@
+/*
+* Alexandra Mavridis
+* November 30, 2018
+* Midterm Project
+*/
+
+/* The universal selector */
+
+*
+/* Body attributes here */
+
+body {
+    background-color: lightgoldenrodyellow;
+
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
